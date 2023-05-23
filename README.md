@@ -17,6 +17,6 @@ Skills: PHP / Larabel / JS / HTML / CSS / Bootstrap / Python / C / C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzulsiam&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuzulsiam)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuzulsiam)
 
 ![Profile views](https://gpvc.arturio.dev/mahfuzulsiam)  
