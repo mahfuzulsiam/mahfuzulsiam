@@ -1,14 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=50&lines=Hello,+I+am+IBRAHIM+KHALIL+SHAKIL;I+am+a+Full+Stack+Web+Developer;Specially+I'm+a+Laravel+Developer;I+have+2+%2B%20years%20of%20coding%20experience;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Hello%2C+I+am+Mahfuzul+Alam+Siam.;I+am+a+Full+Stack+Web+Developer;Specially+I'm+a+Laravel+Developer;I+have+3+%2B+years+of+coding+experience.;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
  
-<a href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
-  <img align="center" height=170 src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show_icons=true&rank_icon=percentile&include_all_commits=true" />
+<a href="https://github.com/mahfuzulsiam/github-readme-stats">
+  <img align="center" height=170 src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=mahfuzulsiam&show_icons=true&rank_icon=percentile&include_all_commits=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" height=170 src="http://github-readme-streak-stats.herokuapp.com?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
+  <img align="center" height=170 src="http://github-readme-streak-stats.herokuapp.com?user=mahfuzulsiam" alt="GitHub Streak" />
 </a>
-<!-- <a href="https://git.io/streak-stats">
-  <img align="center" height=170 src="https://streak-stats.demolab.com/?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
-</a> -->
 
 ### 💻 Programming Languages:
 <table>
@@ -106,10 +103,10 @@
 <br>
 <br>
 
-<a align="center" href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=compact&bg_color=003140&text_color=FFFFFF" />
+<a align="center" href="https://github.com/mahfuzulsiam/github-readme-stats">
+  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzulsiam&size_weight=0&count_weight=1&langs_count=8&layout=compact&bg_color=003140&text_color=FFFFFF" />
 </a>
-<a align="center" href="https://github.com/ibrahim-khalil-shakil/github-contributor-stats">
+<a align="center" href="https://github.com/mahfuzulsiam/github-contributor-stats">
   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" margin="0 auto" display="block" width="440" height="250"  object-fit="contain">
 </a>
 
@@ -124,7 +121,7 @@
 <img align="left" alt="microsoft-office" src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" height="30" >
 <img align="left" alt="vyond" src="https://cdn.worldvectorlogo.com/logos/vyond-2018.svg" height="30" >
 <img align="left" alt="stack-overflow" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" height="30" >
-<img align="left" alt="bing-2" src="https://cdn.worldvectorlogo.com/logos/bing-2.svg" height="30" >
+<img align="left" alt="bing-2" src="https://cdn.worldvectorlogo.com/logos/bing-11.svg" height="30" >
 <img align="left" alt="google-bard" src="https://cdn.worldvectorlogo.com/logos/google-bard-1.svg" height="30" >
 <img align="left" alt="canva" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="30" >
 <img align="left" alt="adobe" src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" height="30" >
