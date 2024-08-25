@@ -146,13 +146,13 @@ By profession, I am a Full Stack Laravel Developer. In my leisure time, I find j
 
 ### What are your projects?
 
-While most of my projects remain personal and private, the ones I choose to release are meticulously developed, albeit not always entirely finished. Explore my repositories [here](https://github.com/ibrahim-khalil-shakil?tab=repositories).
+While most of my projects remain personal and private, the ones I choose to release are meticulously developed, albeit not always entirely finished. Explore my repositories [here](https://github.com/mahfuzulsiam?tab=repositories).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 ### Want to work together?
 
-If you're keen on collaborating or have a project in mind, I would love to connect with you! Whether you wish to explore potential collaborations, have a specific project idea, or simply want to reach out with a question, feel free to contact me. You can send an email to [iksakil2@gmail.com](mailto:iksakil2@gmail.com), or choose from the following methods to get in touch:
+If you're keen on collaborating or have a project in mind, I would love to connect with you! Whether you wish to explore potential collaborations, have a specific project idea, or simply want to reach out with a question, feel free to contact me. You can send an email to [contact@mahfuzulsiam.com](mailto:contact@mahfuzulsiam.com), or choose from the following methods to get in touch:
 
 </div>
 
@@ -160,26 +160,15 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 
 <h2 align="center">Connect With Me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/ibrahim-khalil-shakil/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
-<a href="https://www.facebook.com/ibrahim.khalil.shakil.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
-<a href="https://www.instagram.com/ibrahim_khalil.shakil/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
-<a href="https://twitter.com/ibrahimkhalils0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
-<a href="mailto:iksakil2@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/mahfuzulsiam" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mahfuzulsiam" height="40" width="50" /></a>
+<a href="https://www.facebook.com/siammahfuzul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuzulsiam" height="40" width="50" /></a>
+<a href="https://www.instagram.com/mahfuzulsiam/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mahfuzulsiam" height="40" width="50" /></a>
+<a href="https://twitter.com/mahfuzulsiam" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="mahfuzulsiam" height="40" width="50" /></a>
+<a href="mailto:contact@mahfuzulsiam.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=mail" alt="mahfuzulsiam" height="40" width="50" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-ibrahim-khalil-shakil&abbreviated=true&label=PROFILE+VIEWS:&base=110)
+![](https://komarev.com/ghpvc/?username=mahfuzulsiam&abbreviated=true&label=PROFILE+VIEWS:&base=110)
 
-<img src="https://widgetbite.com/stats/{ibrahim-khalil-shakil}" alt="watching_count" />
-<!--
-![](https://github-contributor-stats.vercel.app/api?username=ibrahim-khalil-shakil&combine_all_yearly_contributions=true&limit=5)
+<img src="https://widgetbite.com/stats/{mahfuzulsiam}" alt="watching_count" />
 
-<img src="https://myreadme.vercel.app/api/embed/ibrahim-khalil-shakil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
--->
-
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-khalil-shakil&theme=juicyfresh&no-bg=true" />
-
-
-<!---
-ibrahim-khalil-shakil/ibrahim-khalil-shakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-profile-trophy.vercel.app/?username=mahfuzulsiam&theme=juicyfresh&no-bg=true" />
